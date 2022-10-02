@@ -7,7 +7,7 @@
 <li>배포되는 스크립트에서는 선물하기 기능또한 포함되어 있지 않으며, 오직 충전/잔액 확인만 가능합니다.</li>
 
 # 사용방법
-client = CultureLand('컬처랜드 ID', '컬처랜드 PW')
+client = CultureLand('컬처랜드 ID', '컬처랜드 PW')<br>
 client.login()
 
 client.getBalance() #잔액 확인
